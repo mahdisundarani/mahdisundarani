@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mahdi Sundarani 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## 🔥 What I Do
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZkNjA1YmQwYzI5YjZhM2Q1MThmM2Q5YzcxNjFkOGM2ZDMxMmM5NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMcB8XospGZO8UQq87/giphy.gif" width="280"/>
+<img align="right" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="280"/>
 
 - 🔭 I'm currently an **AI/ML apprentice** at [Cognyx AI](https://www.cognyx.ai), exploring deep learning, NLP, and LLM-based applications.
 - 🤖 I build projects that bring **LLMs** into real-world use cases using **LangChain**, **Hugging Face**, and **Streamlit**.
@@ -23,11 +23,11 @@
 
 ## 🧠 Research Interests
 
-- Machine Learning & Deep Learning
-- Natural Language Processing (NLP)
-- Generative AI & LLMs
-- Sequence Modeling (RNN, LSTM, GRU, Transformers)
-- Applied AI for Education, Healthcare, and Knowledge Systems
+- Machine Learning & Deep Learning  
+- Natural Language Processing (NLP)  
+- Generative AI & LLMs  
+- Sequence Modeling (RNN, LSTM, GRU, Transformers)  
+- Applied AI for Education, Healthcare, and Knowledge Systems  
 
 ---
 
@@ -36,8 +36,8 @@
 | Project | Preview | Description |
 |--------|---------|-------------|
 | **[🧠 Sentiment Analysis with RNN](https://colab.research.google.com/drive/1BftMImXZ6cIi9sKuywj8CCcltl3NYM97?usp=drive_link)** | ![](https://github.com/mahdisundarani/assets/blob/main/rnn-sentiment-demo.gif) | Classified IMDB movie reviews using word embeddings + RNN architecture. |
-| **[🔮 Next Word Prediction (LSTM & GRU)](https://colab.research.google.com/drive/12PzukKzI9o4UyKrU_TV22S6werq03RQi?usp=sharing)** | ![](https://github.com/mahdisundarani/assets/blob/main/lstm-gru-demo.gif) | Trained both LSTM & GRU models on Kafka's *Metamorphosis* to generate next-word predictions. |
-| **[💬 QnA Chatbot with LangChain & LLaMA 3](https://github.com/mahdisundarani/Chatbot-hf-lama3)** | ![](https://github.com/mahdisundarani/assets/blob/main/langchain-llama3-chat.gif) | Real-time chatbot app using Meta’s LLaMA 3 model via LangChain + Hugging Face + Streamlit. |
+| **[🔮 Next Word Prediction (LSTM & GRU)](https://colab.research.google.com/drive/12PzukKzI9o4UyKrU_TV22S6werq03RQi?usp=sharing)** | ![](https://github.com/mahdisundarani/assets/blob/main/lstm-gru-demo.gif) | Trained LSTM & GRU models on Kafka's *Metamorphosis* to predict next words. |
+| **[💬 QnA Chatbot with LangChain & LLaMA 3](https://github.com/mahdisundarani/Chatbot-hf-lama3)** | ![](https://github.com/mahdisundarani/assets/blob/main/langchain-llama3-chat.gif) | Real-time chatbot app using Meta’s LLaMA 3 via LangChain, Hugging Face & Streamlit. |
 
 ---
 
@@ -63,7 +63,7 @@ Git, GitHub, Docker, Google Colab, Streamlit, Postman, VS Code
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=data:image/svg+xml;base64,...)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -75,9 +75,9 @@ Git, GitHub, Docker, Google Colab, Streamlit, Postman, VS Code
 
 ## 🏅 Honors & Experience
 
-- 🥇 **Next Genius Scholar** – awarded $64,000 merit-based scholarship for undergraduate study in the U.S.
-- 🧑‍💻 **AI/ML Apprentice @ Cognyx AI** – real-world projects in NLP, LLMs, and classical ML.
-- 👨‍🏫 **Team Lead @ Smart India Hackathon 2023 & 2024** – led AI projects in education and digital systems.
+- 🥇 **Next Genius Scholar** – awarded $64,000 merit-based scholarship for undergraduate study in the U.S.  
+- 🤝 **AI/ML Apprentice @ Cognyx AI** – NLP, Transformers, RNNs, and Generative AI projects.  
+- 🧠 **Team Lead – Smart India Hackathon 2023 & 2024** – built educational & digital systems with AI.
 
 ---
 
