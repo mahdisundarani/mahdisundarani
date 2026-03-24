@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>AI/ML Engineer @ Cognyx AI | Final-year BE IT | Generative AI • RAG • Multi-Agent Systems</b>
+  <b>AI/ML Engineer @ Cognyx AI | Generative AI • RAG • Multi-Agent Systems</b>
 </p>
 
 <p align="center">
