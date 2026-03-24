@@ -5,34 +5,67 @@
 </p>
 
 <p align="center">
-  <b>AI Research Intern @ IIT Hyderabad (NetX Lab) | Final-year BE IT | Machine Learning • NLP • LLMs</b>
+  <b>AI/ML Engineer @ Cognyx AI | Final-year BE IT | Generative AI • RAG • Multi-Agent Systems</b>
+</p>
+
+<p align="center">
+  <a href="https://mahdi-sundarani.vercel.app/">Portfolio</a> • 
+  <a href="https://www.linkedin.com/in/mahdi-sundarani-8bb635224/">LinkedIn</a> • 
+  <a href="mailto:mahdi.sundarani@gmail.com">Email</a> • 
+  <a href="https://github.com/mahdisundarani">GitHub</a>
 </p>
 
 ---
 
 ## 🔍 About Me
 
-I’m a final-year Bachelor of Engineering (IT) student and **AI Research Intern at IIT Hyderabad (NetX Lab)**. My primary focus is on core machine learning and deep learning, including supervised and unsupervised learning, NLP, sequence modeling, and large language models. I have a strong foundation in mathematics and programming, and I am currently transitioning from industry-oriented ML work toward **research-driven problem formulation, literature review, and experimental analysis**, with the goal of contributing to impactful AI research and top-tier academic opportunities.
+I’m a final-year Bachelor of Engineering (IT) student and currently working as an **AI/ML Engineer at Cognyx AI**. My work focuses on building **production-grade Generative AI systems**, including Retrieval-Augmented Generation (RAG), multi-agent architectures, and LLM-powered automation workflows.
+
+I specialize in designing **end-to-end intelligent systems** that are scalable, modular, and reliable for real-world applications.
 
 ---
 
-## 🔬 Research Interests
+## 🔬 Areas of Expertise
 
-- Machine Learning & Deep Learning  
-- Natural Language Processing (NLP)  
-- Generative AI & Large Language Models  
-- Sequence Modeling (RNN, LSTM, GRU, Transformers)  
-- Applied AI for Education, Healthcare, and Knowledge Systems  
+- Generative AI & Large Language Models (LLMs)  
+- Retrieval-Augmented Generation (RAG)  
+- Multi-Agent Systems (LangGraph, LangChain)  
+- Deep Learning (ANN, RNN, LSTM, GRU, Transformers)  
+- Machine Learning (Supervised & Unsupervised Learning)  
+- AI System Design & Deployment  
 
 ---
 
-## 🧠 Selected AI / ML Projects
+## 🧠 Selected Projects
 
-| Project | Preview | Description |
-|--------|---------|-------------|
-| **[🧠 Sentiment Analysis with RNN](https://colab.research.google.com/drive/1BftMImXZ6cIi9sKuywj8CCcltl3NYM97?usp=drive_link)** | ![](https://github.com/mahdisundarani/assets/blob/main/rnn-sentiment-demo.gif) | Sentiment classification on IMDB reviews using word embeddings and RNN-based models. |
-| **[🔮 Next Word Prediction (LSTM & GRU)](https://colab.research.google.com/drive/12PzukKzI9o4UyKrU_TV22S6werq03RQi?usp=sharing)** | ![](https://github.com/mahdisundarani/assets/blob/main/lstm-gru-demo.gif) | Trained LSTM and GRU models on Kafka’s *Metamorphosis* for next-word prediction and sequence learning. |
-| **[💬 Q&A Chatbot with LangChain & LLaMA 3](https://github.com/mahdisundarani/Chatbot-hf-lama3)** | ![](https://github.com/mahdisundarani/assets/blob/main/langchain-llama3-chat.gif) | End-to-end conversational AI system using LLaMA 3, LangChain, Hugging Face, and Streamlit. |
+| Project | Link | Description |
+|--------|------|-------------|
+| 🧠 **AI Agentic Campus Assistant** | [GitHub](https://github.com/mahdisundarani/Campus-Asistant) | LLM-powered assistant using RAG, LangGraph multi-agent workflows, and MCP for querying campus data and generating structured responses. |
+| 🔮 **Next Word Prediction (LSTM & GRU)** | [Project](https://drive.google.com/drive/u/0/folders/1IZGHjHilgY0cgTjjvGad8hbd2LVRCcpA) | Sequence modeling on Kafka’s *Metamorphosis* using LSTM and GRU with full NLP preprocessing pipeline. |
+| 💬 **Sentiment Analysis with RNN** | [Colab](https://colab.research.google.com/drive/1BftMImXZ6cIi9sKuywj8CCcltl3NYM97) | IMDB sentiment classification using RNN with embeddings and sequential learning. |
+| 🌍 **YelpCamp - Full Stack Platform** | [GitHub](https://github.com/mahdisundarani/yelp-camp) | Full-stack web app with React, Express, MongoDB, authentication, and dynamic UI. |
+
+---
+
+## 🏢 Experience
+
+### 🧠 AI/ML Engineer — Cognyx AI  
+*Jan 2025 – Present*
+
+- Engineered **production RAG pipeline** → **95%+ accuracy, 40% lower latency**  
+- Designed **LangGraph multi-agent systems** for reasoning and orchestration  
+- Built **LLM-powered CRM automation (n8n + agents)** → **60% effort reduction**  
+- Implemented **Model Context Protocol (MCP)** for scalable integrations  
+
+---
+
+### 🎓 AI/ML Intern — Cognyx AI  
+*Oct 2024 – Dec 2024*
+
+- Completed ML & NLP Specializations (Stanford / DeepLearning.AI)  
+- Built ML and DL models using Scikit-learn, TensorFlow, Keras  
+- Implemented ANN, RNN, LSTM, GRU, and Transformer architectures  
+- Worked with LLMs using Hugging Face and LangChain  
 
 ---
 
@@ -42,33 +75,38 @@ I’m a final-year Bachelor of Engineering (IT) student and **AI Research Intern
 Python, C/C++, Java, JavaScript  
 
 **Machine Learning / AI**  
-NumPy, Pandas, Scikit-learn, TensorFlow, Keras, Hugging Face, LangChain  
+NumPy, Pandas, Scikit-learn, TensorFlow, Keras, PyTorch  
 
-**Web & Prototyping (for ML systems)**  
-React.js, Next.js, Node.js, Express.js, MongoDB, HTML, CSS, Tailwind, Bootstrap  
+**Generative AI & Orchestration**  
+LangChain, LangGraph, MCP, Hugging Face, OpenAI APIs  
+
+**Data & Vector Stores**  
+FAISS, Qdrant, Supabase (pgvector), Embeddings, Web Scraping  
+
+**Full Stack & Deployment**  
+React, Next.js, Node.js, Express, FastAPI, REST APIs, Streamlit  
 
 **Tools & Platforms**  
-Git, GitHub, Docker, Google Colab, Streamlit, Postman, VS Code  
+Git, Docker (Basics), Postman, Jupyter, Google Colab, VS Code  
 
 ---
 
-## 🏅 Experience & Recognition
+## 🎓 Education
 
-- 🧠 **AI Research Intern – IIT Hyderabad (NetX Lab)**  
-  Focused on research preparation, literature review, and experimental ML workflows.  
+**Bachelor of Engineering (IT)**  
+Ahmedabad Institute of Technology (2023 – 2026)  
+CGPA: 8.71  
 
-- 🥇 **Next Genius Scholar**  
-  Awarded a $64,000 merit-based scholarship for undergraduate study in the United States.  
-
-- 🧩 **Team Lead – Smart India Hackathon (2023 & 2024)**  
-  Led teams building AI-powered educational and digital systems.
+**Diploma in Engineering (IT)**  
+Khyati School of Engineering (2020 – 2023)  
+CGPA: 8.85  
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://mahdi-sundarani.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://mahdi-sundarani.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/mahdi-sundarani-8bb635224/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:mahdi.sundarani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/mahdisundarani"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
