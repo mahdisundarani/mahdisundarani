@@ -1,117 +1,146 @@
-<h1 align="center">Hi, I'm Mahdi Sundarani 👋</h1>
+# Hi, I'm Mahdi Sundarani 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Developer coding animation" />
 </p>
 
 <p align="center">
-  <b>AI/ML Engineer @ Cognyx AI | Generative AI • RAG • Multi-Agent Systems</b>
+  <strong>Applied AI Engineer @ Cognyx AI | Generative AI • RAG • AI Agents • LLM Evaluation</strong>
 </p>
 
 <p align="center">
-  <a href="https://mahdi-sundarani.vercel.app/">Portfolio</a> • 
-  <a href="https://www.linkedin.com/in/mahdi-sundarani-8bb635224/">LinkedIn</a> • 
-  <a href="mailto:mahdi.sundarani@gmail.com">Email</a> • 
+  <a href="https://mahdi-sundarani.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/mahdi-sundarani-8bb635224/">LinkedIn</a> •
+  <a href="mailto:mahdi.sundarani@gmail.com">Email</a> •
   <a href="https://github.com/mahdisundarani">GitHub</a>
 </p>
 
 ---
 
-## 🔍 About Me
+## 👨‍💻 About Me
 
-I’m a final-year Bachelor of Engineering (IT) student and currently working as an **AI/ML Engineer at Cognyx AI**. My work focuses on building **production-grade Generative AI systems**, including Retrieval-Augmented Generation (RAG), multi-agent architectures, and LLM-powered automation workflows.
+I'm an **Applied AI Engineer at Cognyx AI** focused on building production-grade AI systems that solve real-world problems.
 
-I specialize in designing **end-to-end intelligent systems** that are scalable, modular, and reliable for real-world applications.
+My work spans **LLM-powered applications, retrieval-augmented generation (RAG), tool-calling agents, evaluation pipelines, and AI infrastructure**. I enjoy taking AI systems beyond prototypes by improving their reliability, latency, cost, and integration with real products.
 
----
+I'm particularly interested in:
 
-## 🔬 Areas of Expertise
-
-- Generative AI & Large Language Models (LLMs)  
-- Retrieval-Augmented Generation (RAG)  
-- Multi-Agent Systems (LangGraph, LangChain)  
-- Deep Learning (ANN, RNN, LSTM, GRU, Transformers)  
-- Machine Learning (Supervised & Unsupervised Learning)  
-- AI System Design & Deployment  
+- Building reliable, tool-using AI agents.
+- Evaluating LLM outputs with systematic tests and measurable benchmarks.
+- Designing retrieval and document-processing pipelines.
+- Developing real-time voice AI and multimodal applications.
+- Shipping end-to-end AI products with modern backend and cloud infrastructure.
 
 ---
 
-## 🧠 Selected Projects
+## 🚀 What I'm Working On
 
-| Project | Link | Description |
-|--------|------|-------------|
-| 🧠 **AI Agentic Campus Assistant** | [GitHub](https://github.com/mahdisundarani/Campus-Asistant) | LLM-powered assistant using RAG, LangGraph multi-agent workflows, and MCP for querying campus data and generating structured responses. |
-| 🔮 **Next Word Prediction (LSTM & GRU)** | [Project](https://drive.google.com/drive/u/0/folders/1IZGHjHilgY0cgTjjvGad8hbd2LVRCcpA) | Sequence modeling on Kafka’s *Metamorphosis* using LSTM and GRU with full NLP preprocessing pipeline. |
-| 💬 **Sentiment Analysis with RNN** | [Colab](https://colab.research.google.com/drive/1BftMImXZ6cIi9sKuywj8CCcltl3NYM97) | IMDB sentiment classification using RNN with embeddings and sequential learning. |
-| 🌍 **YelpCamp - Full Stack Platform** | [GitHub](https://github.com/mahdisundarani/yelp-camp) | Full-stack web app with React, Express, MongoDB, authentication, and dynamic UI. |
+### ⚖️ Legal AI & Document Intelligence
 
----
+Building AI-powered legal workflows, including:
 
-## 🏢 Experience
+- RAG pipelines for legal research and citation-grounded generation.
+- Document ingestion, OCR, chunking, anonymization, and vector indexing.
+- LLM evaluation with automated quality checks and lawyer-reviewed benchmarks.
+- Production safeguards, access control, and reliable AI workflows.
 
-### 🧠 AI/ML Engineer — Cognyx AI  
-*Jan 2025 – Present*
+### 🎙️ Real-Time Voice AI
 
-- Engineered **production RAG pipeline** → **95%+ accuracy, 40% lower latency**  
-- Designed **LangGraph multi-agent systems** for reasoning and orchestration  
-- Built **LLM-powered CRM automation (n8n + agents)** → **60% effort reduction**  
-- Implemented **Model Context Protocol (MCP)** for scalable integrations  
+Exploring low-latency conversational AI with:
 
----
-
-### 🎓 AI/ML Intern — Cognyx AI  
-*Oct 2024 – Dec 2024*
-
-- Completed ML & NLP Specializations (Stanford / DeepLearning.AI)  
-- Built ML and DL models using Scikit-learn, TensorFlow, Keras  
-- Implemented ANN, RNN, LSTM, GRU, and Transformer architectures  
-- Worked with LLMs using Hugging Face and LangChain  
+- Streaming audio over WebSockets.
+- Speech-to-text and text-to-speech pipelines.
+- Voice activity detection and interruption handling.
+- Structured tool calling and evaluation of conversational responses.
 
 ---
 
-## 🛠️ Technical Stack
+## 🔬 Selected Project
+
+### ⚖️ [Qanoni.ai — AI Legal Platform](https://qanoni.ai)
+
+An Arabic-first AI legal platform for legal research and drafting, powered by LLMs, RAG, and agentic workflows.
+
+---
+
+## 💼 Experience
+
+### Applied AI Engineer — Cognyx AI
+*October 2025 – Present · Ahmedabad, India*
+
+- Building an Arabic-first legal AI platform with tool-calling agents, deterministic validation, and workflows across multiple legal practice areas.
+- Engineering RAG pipelines with document ingestion, embeddings, hybrid retrieval, reranking, and citation verification.
+- Developing LLM evaluation workflows using pairwise LLM-as-a-judge comparisons and automated quality checks.
+- Building document intelligence pipelines for OCR, chunking, PII anonymization, vector indexing, and citation resolution.
+- Shipping full-stack product capabilities, including streaming responses, role-based access control, billing, security controls, and AWS deployments.
+- Exploring real-time voice AI with streaming audio, function calling, structured outputs, and latency monitoring.
+
+### Research Intern — Agentic AI & Infrastructure Automation, IIT Hyderabad
+*August 2025 – September 2025 · Hyderabad, India*
+
+- Built an LLM/SLM evaluation pipeline for Terraform infrastructure-as-code tasks.
+- Benchmarked models including Qwen, DeepSeek, and Codex using automated metrics and LLM-as-a-judge evaluation.
+- Created execution-validated ground-truth datasets with runtime metrics and failure cases.
+- Contributed to a multi-agent infrastructure automation system integrating Terraform and Open Policy Agent (OPA).
+
+---
+
+## 🛠️ Technical Skills
 
 **Languages**  
-Python, C/C++, Java, JavaScript  
+Python, TypeScript, JavaScript, SQL, C/C++, Java
 
-**Machine Learning / AI**  
-NumPy, Pandas, Scikit-learn, TensorFlow, Keras, PyTorch  
+**Generative AI & LLM Engineering**  
+LLMs, RAG, AI Agents, Tool Calling, Structured Outputs, Prompt Engineering, LLM Evaluation, LLM-as-a-Judge, Guardrails, MCP, Multi-Agent Systems
 
-**Generative AI & Orchestration**  
-LangChain, LangGraph, MCP, Hugging Face, OpenAI APIs  
+**Frameworks & Model Ecosystem**  
+LangChain, LangGraph, Hugging Face, OpenAI APIs, Gemini, Claude
 
-**Data & Vector Stores**  
-FAISS, Qdrant, Supabase (pgvector), Embeddings, Web Scraping  
+**Retrieval & Data Engineering**  
+Qdrant, FAISS, pgvector, Embeddings, Hybrid Search, Reranking, OCR, Document Processing, PostgreSQL, MongoDB
 
-**Full Stack & Deployment**  
-React, Next.js, Node.js, Express, FastAPI, REST APIs, Streamlit  
+**Machine Learning & Deep Learning**  
+PyTorch, TensorFlow, Keras, Scikit-learn, NumPy, Pandas, Transformers
 
-**Tools & Platforms**  
-Git, Docker (Basics), Postman, Jupyter, Google Colab, VS Code  
+**Backend & Full Stack**  
+FastAPI, REST APIs, Node.js, React, Next.js, Express, Server-Sent Events (SSE), WebSockets
+
+**Cloud & DevOps**  
+AWS (EC2, S3, RDS), Docker, GitHub Actions, CI/CD, Linux, Nginx, Git
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Engineering (IT)**  
-Ahmedabad Institute of Technology (2023 – 2026)  
-CGPA: 8.71  
+**Bachelor of Engineering — Information Technology**  
+Ahmedabad Institute of Technology · 2023–2026  
+CGPA: 8.90/10
 
-**Diploma in Engineering (IT)**  
-Khyati School of Engineering (2020 – 2023)  
-CGPA: 8.85  
+**Diploma — Information Technology**  
+Khyati School of Engineering · 2020–2023  
+CGPA: 8.85/10
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://mahdi-sundarani.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mahdi-sundarani-8bb635224/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:mahdi.sundarani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/mahdisundarani"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://mahdi-sundarani.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/mahdi-sundarani-8bb635224/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mahdi.sundarani@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/mahdisundarani">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
 
-> “The best way to predict the future is to invent it.” — Alan Kay
+<p align="center">
+  <i>"The best way to predict the future is to invent it." — Alan Kay</i>
+</p>
