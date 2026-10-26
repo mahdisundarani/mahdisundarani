@@ -55,14 +55,6 @@ Exploring low-latency conversational AI with:
 
 ---
 
-## 🔬 Selected Project
-
-### ⚖️ [Qanoni.ai — AI Legal Platform](https://qanoni.ai)
-
-An Arabic-first AI legal platform for legal research and drafting, powered by LLMs, RAG, and agentic workflows.
-
----
-
 ## 💼 Experience
 
 ### Applied AI Engineer — Cognyx AI
@@ -129,18 +121,4 @@ CGPA: 8.85/10
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/mahdi-sundarani-8bb635224/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mahdi.sundarani@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/mahdisundarani">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>"The best way to predict the future is to invent it." — Alan Kay</i>
-</p>
+    <img src="https://img
